@@ -19,7 +19,8 @@ This project is all about the integration of different services on AWS, which in
 
 ## Roadmap and Architecture
 
-The architecture goes here.
+The architecture goes here.  
+
 ![im](/images/Screenshot.png)  
 
 
