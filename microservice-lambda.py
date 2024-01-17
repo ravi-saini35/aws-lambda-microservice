@@ -25,7 +25,7 @@ def lambda_handler(event, context):
     
     operations = {
         'create': lambda x: dynamo.put_item(Item=x),
-        # insert, update adn delete to be created.
+        # update adn delete to be created.
     }
 
     if operation in operations:
